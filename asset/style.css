@@ -1,0 +1,77 @@
+body {
+    background: blue;
+}
+
+.bagAtas {
+    text-align: center;
+    padding-top: 80px;
+    color: white;
+}
+
+.bagAtas h1{
+    margin-bottom: -10px;
+    font-size: 34px;
+}
+
+.bilah {
+    margin-right: 23%;
+    margin-left: 23%;
+    margin-top: 40px;
+    display: flex;
+}
+
+.poto {
+    width: 300px;
+}
+
+.fhoto img {
+    width: 343px;
+    height: 390px;
+}
+
+
+.bagianisi {
+    margin-bottom: 15px;
+    background-color: white;
+    width: 400px;
+    display: flex;
+}
+
+.conten {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.bagianisi .tombol {
+    border: 0;
+    color: wheat;
+    background-color: darkorange;
+    width: 100px;
+    font-size: 22px;
+  
+}
+
+.tombol img {
+    padding-top: 50px;
+    padding-left: 20px;
+    width: 20px;
+}
+
+.isi {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.isi p{
+    margin-top: -10px;
+}
+
+.bagianisi .tombol:hover{
+    background-color: white;
+}
+
+.tombol a {
+    text-decoration: none;
+    color: white;
+}
+
